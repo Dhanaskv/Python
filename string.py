@@ -1,3 +1,9 @@
 #!/usr/bin/python
-str1='python'
-print(str1)
+A="python"
+print(A)
+print(A[0])
+print(A[-1])
+x='''python programming language
+is simple and most used in wide area'''
+print(x)
+print(len(x))
